@@ -1,5 +1,5 @@
-INSERT INTO burgers (burger_name, devoured)
+INSERT INTO burgers (burger_name)
 VALUES 
-("El Presidente", 0),
-("La Llorona", 0),
-("El Jefe", 0);
+("El Presidente"),
+("La Llorona"),
+("El Jefe");
